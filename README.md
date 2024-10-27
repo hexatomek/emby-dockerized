@@ -37,5 +37,5 @@ Emby organizes your media content and makes it accessible on various devices. Th
 
 ```plaintext
 ├── docker-compose.yml   # Docker Compose configuration
-├── .env.example         # Example environment variables
+├── vars.env             # Example environment variables
 └── README.md            # Project documentation
